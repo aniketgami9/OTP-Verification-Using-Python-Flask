@@ -1,0 +1,15 @@
+Open app.py file, in that change the Email ID & Password.
+
+
+suppose example: you are using abc@gmail.com
+
+So go to the abc@gmail.com 
+
+Google Manager of the account.
+in search bar type App Password.
+
+create a new app & it will give you code 
+
+copy that code & used in The code(app.py) as a password.
+
+
